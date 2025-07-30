@@ -15,4 +15,4 @@ Rom changes: The First build
 - July Security Update
 - Introduce OTA Updates
 - Add KernelSU
-- LeicaCamera
+- LeicaCamera ( Update)
