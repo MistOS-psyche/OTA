@@ -4,20 +4,24 @@
       "maintainer": "Verevka",
       "oem": "Xiaomi",
       "device": "12X",
-      "filename": "EvolutionX-15.0-20250326-psyche-10.4-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/xiaomi12x/files/Evolution-X/EvolutionX-15.0-20250326-psyche-10.4-Unofficial.zip/download",
-      "timestamp": 1742972791,
-      "md5": "a8fd2d9a40097cee6989b58e736f96cb",
-      "sha256": "96a648c5ebab6f73270b15109bd6efb2fbf6a06b4357760c5b8b70fbc2c67ebf",
-      "size": 2844923422,
-      "version": "10.4",
+      "filename": "EvolutionX-16.0-20250807-psyche-11.0-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/xiaomi12x/files/Evolution-X/EvolutionX-16.0-20250807-psyche-11.0-Unofficial.zip/download",
+      "timestamp": 1754597182,
+      "md5": "55bca67a79cab26c10b95d851c495718",
+      "sha256": "a581b6d9eb22028655ef32a94a398cc4309f89a7aefa320d49525c63265eb16d",
+      "size": 2583948980,
+      "version": "11.0",
       "buildtype": "user",
       "forum": "",
       "firmware": "",
       "paypal": "",
-      "telegram": "t.me/Verevka86",
-      "github": "github.com/RisingOSS-psyche",
-      "initial_installation_images": []
+      "telegram": "https://t.me/Verevka86",
+      "github": "MistOS-psyche",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "vendor_boot"
+      ]
     }
   ]
 }
