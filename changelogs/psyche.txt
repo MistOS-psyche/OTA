@@ -13,6 +13,6 @@ Device changes:
 Rom changes: The First build
 --------------------
 - July Security Update
-- Introduce OTA Updates
-- Add KernelSU
-- LeicaCamera ( Update)
+- Add KernelSU-Next latest
+- Add SUSFS 1.5.9
+- MiuiCamera ( Update)
