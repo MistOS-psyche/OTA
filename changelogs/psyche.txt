@@ -5,7 +5,8 @@ Device changes:
 - Last Update for 16.0
 Rom changes:
 --------------------
-- August Security Update
-- Introduce OTA Updates
-- Fix Fast Changer
-- Include GAPPS
+- Add support 90Hz refresh rate
+- Add 150MHZ GPU support
+- Disable some debug logs
+- There are a lot of optimizations and updates
+
