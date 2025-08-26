@@ -6,11 +6,11 @@ Device changes:
 Rom changes:
 --------------------
 - Add support 90Hz refresh rate
-- Add 150MHZ GPU support
 - Disable some debug logs
 - There are a lot of optimizations and updates
 - Add KernelSU-Next latest
 - Add SUSFS 1.5.9
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
+- Use MagicTime kernel
 
