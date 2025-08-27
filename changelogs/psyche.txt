@@ -5,17 +5,17 @@ Notes:
 - LineageOS-based source. Signed build.
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 
-
-Rom changes:
 --------------------
-- August Security Update
-- Introduce OTA Updates
-- Fix display off UDFPS
-- Add KernelSU-Next (1.0.9)
-- SUSFS (1.5.9)
-- Restore MIUI camera
-- Fix AOD
-- Small update and changes
+- Add support 90Hz refresh rate
+- Disable some debug logs
+- There are a lot of optimizations and updates
+- Add KernelSU-Next latest
+- Add SUSFS 1.5.9
+- MiuiCamera
+- Include Firmware OS1.01.0.TLDMIXM
+- Use MagicTime kernel
+- Use uclamp
+- Update graphics blobs from AOSPA (Adreno v530.55)
 
 --------------------
 Attention is Importent!!!
