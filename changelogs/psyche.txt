@@ -13,4 +13,6 @@ Rom changes:
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
 - Use MagicTime kernel
+- Use uclamp
+- Update graphics blobs from AOSPA (Adreno v530.55)
 
