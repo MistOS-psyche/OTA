@@ -2,7 +2,7 @@ This is Android 16 with August 2025 security patches
 
 Device changes:
 --------------------
-- Last Update for 16.0
+- Last Update for 16.0 Stable
 Rom changes:
 --------------------
 - Add support 90Hz refresh rate
