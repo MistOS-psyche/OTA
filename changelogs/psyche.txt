@@ -9,10 +9,10 @@ Rom changes:
 - Disable some debug logs
 - There are a lot of optimizations and updates (update)
 - Add KernelSU-Next latest
-- Add SUSFS 1.5.5
+- Add SUSFS 1.5.9
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
-- Use MagicTime kernel (update)
+- Use Redline Fork Kernel
 - Use uclamp (update)
 - Update graphics blobs from AOSPA (Adreno v530.55)
 
