@@ -5,14 +5,12 @@ Device changes:
 - Last Update for 12.1 Stable
 Rom changes:
 --------------------
-- Add support 90Hz refresh rate
 - Disable some debug logs
 - There are a lot of optimizations and updates (update)
 - Add KernelSU-Next latest
 - Add SUSFS 1.5.9
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
-- Use Redline Fork Kernel
-- Use uclamp (update)
+- Add Uclamp Assist
 - Update graphics blobs from AOSPA (Adreno v530.55)
 
