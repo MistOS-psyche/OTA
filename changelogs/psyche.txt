@@ -1,15 +1,15 @@
-This is Android 16 with August 2025 security patches
+This is Android 16 with September 2025 security patches
 
 Device changes:
 --------------------
 - Last Update for 16.0
 Rom changes:
 --------------------
-- Add support 90Hz refresh rate
 - Disable some debug logs
 - There are a lot of optimizations and updates
 - Add KernelSU-Next latest
+- Kernel: Add Uclamp Assist
 - Add SUSFS 1.5.9
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
-- Use MagicTime kernel
+- Update graphics blobs from AOSPA (Adreno v530.55)
