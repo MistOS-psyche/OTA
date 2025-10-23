@@ -6,6 +6,6 @@ Notes:
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 
 --------------------
-- Fix NFC?
 - Bug fix and update source
+- Drop DolbyAtmos
 
