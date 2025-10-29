@@ -6,6 +6,7 @@ Notes:
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 
 --------------------
-- Bug fix and update source
-- Drop DolbyAtmos
+- Bug fix
+- Update source
+- Restore Dolby
 
