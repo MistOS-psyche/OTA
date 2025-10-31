@@ -9,4 +9,7 @@ Notes:
 - Bug fix
 - Update source
 - Restore Dolby
+- Fix Torch brightness
+- Add fp screen off unlock feature
+- Changes to screen smoothness
 
