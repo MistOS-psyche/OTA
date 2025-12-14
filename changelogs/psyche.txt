@@ -6,7 +6,7 @@ Notes:
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 
 --------------------
-- 16.0 QPR1 first build
+- 16.0 QPR1
 - Update source
 - KernelSU-Next update 1.1.1
 - November security patch
