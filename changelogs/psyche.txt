@@ -12,3 +12,4 @@ Notes:
 - Desember security patch
 - Fix screenrecorder
 - Switch new kernel
+- Switch AOSP Surfaceflinger (плавная шторка блять)
