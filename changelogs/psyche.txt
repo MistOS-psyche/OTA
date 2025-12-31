@@ -1,16 +1,16 @@
-This is Android 16 with September 2025 security patches
+This is Android 16 with December 2025 security patches
 
 Device changes:
 --------------------
-- Last Update for 12.1 Stable
+- Last Update for 12.5 Stable
 Rom changes:
 --------------------
 - Disable some debug logs
 - There are a lot of optimizations and updates (update)
-- Add KernelSU-Next latest
+- Add KernelSU-Next 1.1.1
 - Add SUSFS 1.5.9
 - MiuiCamera
 - Include Firmware OS1.01.0.TLDMIXM
-- Add Uclamp Assist
 - Update graphics blobs from AOSPA (Adreno v530.55)
+- All update and fix
 
