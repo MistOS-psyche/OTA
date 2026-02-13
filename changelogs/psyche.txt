@@ -11,4 +11,9 @@ Rom changes:
 - KernelSU-Next update 1.1.1
 - February security patch
 
+Fix bugs:
+- Fix Fingerprint on the off screen
+- Android Auto
+- More small bugs...
+
 Attention! Due to the upgrade from QPR1 to QPR2, the /data format may be required!!!
